@@ -1,0 +1,19 @@
+Thanks to the people listed here for their help and/or their software :-):
+
+---------------------
+The TkMegaWidget widget is based upon the (great) TCL/TK package from:
+John Ousterhout (john.ousterhout@eng.sun.com)
+
+The DES encryption is based upon the libdes package published by:
+Eric Young (eay@psych.psy.uq.oz.au)
+
+The shared library support has been derived from the
+tcltk_shlib package written by:
+Xiaokun Zhu (xiaokun@stats.gla.ac.uk)
+
+---------------------
+
+my little sister for massive spellchecking!!
+
+...
+hopefully YOU with additional ideas !!!
